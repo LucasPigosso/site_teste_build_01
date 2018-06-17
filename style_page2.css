@@ -1,5 +1,5 @@
-.centraliza_titulo h1 {
-	text-align: center;
+.centraliza_titulo h1{
+	text-align: right;
 }
 
 .texto_p p {
@@ -10,7 +10,9 @@
 	color: #000000;
 }
 
-
 .container01 img{
 	margin-left:500px;
 }
+
+.alinha_botao_right button {
+	display: inline;
