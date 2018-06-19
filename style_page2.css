@@ -1,18 +1,19 @@
-.centraliza_titulo h1{
-	text-align: right;
+body {
+	text-align: justify;
+	margin-right: 250px;
+	margin-left: 250px;
+	
 }
 
-.texto_p p {
-	text-align: justify;
-	margin-left: auto;
-	margin-right: auto;
-	width: 50em;
-	color: #000000;
+.centraliza h1 {
+	text-align: center;
 }
 
 .container01 img{
-	margin-left:500px;
+	margin-left: 250px;
 }
 
 .alinha_botao_right button {
 	display: inline;
+}
+
