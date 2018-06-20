@@ -8,7 +8,20 @@ body {
     margin: 0 auto;
     max-width: 800px;
     padding: 2em 2em 4em;
+    text-align: justify;
 }
 h1 {
-	text-align:center;
+    text-align: center;
+}
+
+#primeiro_paragrafo_direita {
+    
+}
+
+#cebola01_right {
+    /* max-width: 200px; */
+    float: left;
+    /*width:100px; 
+    height:100px;*/
+    margin-left: 25em;
 }
