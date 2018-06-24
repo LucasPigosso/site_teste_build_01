@@ -10,18 +10,12 @@ body {
     padding: 2em 2em 4em;
     text-align: justify;
 }
-h1 {
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+.titulo-centro h1 {
     text-align: center;
-}
-
-#primeiro_paragrafo_direita {
-    
-}
-
-#cebola01_right {
-    /* max-width: 200px; */
-    float: left;
-    /*width:100px; 
-    height:100px;*/
-    margin-left: 25em;
 }
