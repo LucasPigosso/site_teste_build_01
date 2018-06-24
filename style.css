@@ -11,6 +11,10 @@ body {
     text-align: justify;
 }
 
+.recuo {
+    text-indent: 4em; 
+}
+
 img{
     max-width: 100%;
 }
@@ -32,7 +36,7 @@ li a {
     display: block;
     color: #666;
     text-align: center;
-    padding: 14px 16px;
+    padding: 10px 67px;
     text-decoration: none;
 }
 
@@ -40,7 +44,9 @@ li a:hover:not(.active) {
     background-color: #ddd;
 }
 
-li a.active {
+/*li a.active {
     color: white;
-    background-color: #4CAF50;
+    background-color:#f3f3f3 ;
 }
+
+#4CAF50*/
